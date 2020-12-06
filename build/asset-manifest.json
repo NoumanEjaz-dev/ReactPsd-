@@ -1,0 +1,32 @@
+{
+  "files": {
+    "main.css": "./static/css/main.6dea0f05.chunk.css",
+    "main.js": "./static/js/main.857a8f05.chunk.js",
+    "main.js.map": "./static/js/main.857a8f05.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.ef10bbc6.js",
+    "runtime-main.js.map": "./static/js/runtime-main.ef10bbc6.js.map",
+    "static/js/2.ae6cd4d3.chunk.js": "./static/js/2.ae6cd4d3.chunk.js",
+    "static/js/2.ae6cd4d3.chunk.js.map": "./static/js/2.ae6cd4d3.chunk.js.map",
+    "index.html": "./index.html",
+    "static/css/main.6dea0f05.chunk.css.map": "./static/css/main.6dea0f05.chunk.css.map",
+    "static/js/2.ae6cd4d3.chunk.js.LICENSE.txt": "./static/js/2.ae6cd4d3.chunk.js.LICENSE.txt",
+    "static/media/adidas.c0505bfd.svg": "./static/media/adidas.c0505bfd.svg",
+    "static/media/clap.3aa4aa84.svg": "./static/media/clap.3aa4aa84.svg",
+    "static/media/hbo.5789f143.svg": "./static/media/hbo.5789f143.svg",
+    "static/media/img1.2d06f8b2.svg": "./static/media/img1.2d06f8b2.svg",
+    "static/media/love.b56dd98a.svg": "./static/media/love.b56dd98a.svg",
+    "static/media/lyft.e04400cf.svg": "./static/media/lyft.e04400cf.svg",
+    "static/media/man.94547336.svg": "./static/media/man.94547336.svg",
+    "static/media/microsoft.01bdf3de.svg": "./static/media/microsoft.01bdf3de.svg",
+    "static/media/spotify.7f9f398b.svg": "./static/media/spotify.7f9f398b.svg",
+    "static/media/tinder.d50a3c60.svg": "./static/media/tinder.d50a3c60.svg",
+    "static/media/year.1a654362.svg": "./static/media/year.1a654362.svg",
+    "static/media/zoom.783fb84b.svg": "./static/media/zoom.783fb84b.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ef10bbc6.js",
+    "static/js/2.ae6cd4d3.chunk.js",
+    "static/css/main.6dea0f05.chunk.css",
+    "static/js/main.857a8f05.chunk.js"
+  ]
+}
